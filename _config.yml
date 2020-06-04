@@ -36,7 +36,7 @@ organization-logo-nav: https://www.lib.washington.edu/uwlib-theme-www/img/wordma
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: foundingstories04062020 
+metadata: foundingstories06062020 
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: p16786coll18
 # CONTENTdm server url
