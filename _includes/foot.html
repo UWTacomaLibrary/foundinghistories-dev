@@ -12,3 +12,8 @@
 {% if page.layout == "map" %}{% include js/map-js.html %}{% endif %}
 {% if page.layout == "item" %}{% include js/arrow-page-control-js.html %}{% endif %}
 {%- if page.layout == "home-infographic" %}{% include js/carousel-js.html %}{% endif -%}
+
+
+<!--Transcript + Visualization Add-->
+{% if page.layout == "transcript" %}{% include js/transcript-js.html %}{% endif %}
+{% if page.layout == "visualization" %}{% include js/visualization-js.html %}{% endif %}
