@@ -5,9 +5,9 @@ interviewer,Interviewer,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 affiliation (role),Role,,
 affiliation (department),Department,,
+subject,Subjects,true,DC.subject,keywords
 biography,Biography,,
 description,Description,,
-subject,Subjects,true,DC.subject,keywords
 location,Location,true,,contentLocation
 extent,Extent,,
 type,Type,DC.type
