@@ -6,6 +6,7 @@ date,Date Created,,DCTERMS.created,dateCreated
 affiliation (role),Role,,
 affiliation (department),Department,,
 biography,Biography,,
+description,Description,,
 subject,Subjects,true,DC.subject,keywords
 location,Location,true,,contentLocation
 extent,Extent,,
