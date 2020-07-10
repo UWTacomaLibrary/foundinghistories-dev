@@ -1,5 +1,5 @@
 field,display_name
 title,Title
-date,Date
+affiliation (role),Role
 description,Description
 subject (lcsh),Subjects
