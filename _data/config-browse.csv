@@ -1,4 +1,7 @@
 field,display_name,btn,hidden
+date,Date,,true
+location,,true,true
+subject,,true,true
 manufacturer,,true
 original format,,,true
 mediatype,,,true
