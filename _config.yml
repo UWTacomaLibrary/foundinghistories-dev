@@ -29,8 +29,8 @@ author: UWTacomaLibrary
 # Organization branding
 organization-name: "University of Washington Libraries Digital Collections"
 organization-link: https://content.lib.washington.edu/
-organization-logo-banner: #/assets/img/logoUwt.png
-organization-logo-nav: /assets/img/logoUWLib.png
+organization-logo-banner: /assets/img/logoUwt.jpg
+organization-logo-nav: https://www.lib.washington.edu/uwlib-theme-www/img/wordmark.png
 
 ##########
 # COLLECTION SETTINGS
