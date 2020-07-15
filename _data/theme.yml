@@ -5,6 +5,7 @@
 
 # Home page
 featured-image-objectid: # use number of photo from collection
+featured-image-link:  
 featured-image: /assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
 home-title-y-padding: 8em # the margin from the top your title portion will appear.
 home-banner-image-position: center # [options: top, center, bottom] Default: top
