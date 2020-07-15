@@ -13,3 +13,4 @@ extent,Extent,,
 type,Type,DC.type
 format,Format,,,encodingFormat
 rights,Rights,,DCTERMS.rights,license
+citation information,Preferred Citation,,
