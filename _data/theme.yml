@@ -4,8 +4,8 @@
 ##########
 
 # Home page
-featured-image-objectid: foundingstories16 # use number of photo from collection
-featured-image-link:  # leave blank unless no cdm number to generate item 
+featured-image-objectid: # use number of photo from collection
+featured-image-link:  /assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
 home-title-y-padding: 8em # the margin from the top your title portion will appear.
 home-banner-image-position: top # [options: top, center, bottom] Default: top
 carousel-height: 500 # in px, but don't include the "px"; default is 450.
