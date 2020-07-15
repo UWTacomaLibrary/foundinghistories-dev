@@ -1,0 +1,27 @@
+{% comment %}
+    
+    Item figure from image link.
+    This include adds a figure to the page styled using bootstrap, https://getbootstrap.com/docs/4.5/content/figures/
+    It requires an "image" with the include, which is used to link to the image.
+
+    E.G. --> {% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image4.jpg" %}
+
+    Options:
+    - "image" = link to oustide image ;  
+    - "width" = will use responsive sizing to set the % size on desktop (will be 100% on mobile), choose from "25", "50", "75", or "100"
+    - "caption" = by default the figure include automatically adds the title of the item from your metadata. The caption option allows you to manually add a different caption, or give the value false for none.
+    - "float" = will use responsive float utility to add float on desktop (will not float on mobile), choose from "left" or "right"
+
+{%- endcomment -%}
+{%- assign figures = include.objectid | split: ";" %}
+<div class="row">
+    
+    <div class="col-md text-center">
+        <figure class="figure mx-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}">
+            <a href="{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}">
+                <img class="figure-img img-fluid rounded lazyload" alt="{{ figure.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{include.image}}" >
+            </a>
+            <figcaption class="figure-caption">{{ include.caption }}</figcaption>
+        </figure>
+    </div>
+</div>
