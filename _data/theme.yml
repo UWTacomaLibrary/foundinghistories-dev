@@ -5,10 +5,11 @@
 
 # Home page
 featured-image-objectid: # use number of photo from collection
-featured-image-link:  /assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
+featured-image: /assets/img/qWW5FY_original.jpg
+featured-image-link: # leave blank unless no cdm number to generate item 
 home-title-y-padding: 8em # the margin from the top your title portion will appear.
-home-banner-image-position: top # [options: top, center, bottom] Default: top
-carousel-height: 500 # in px, but don't include the "px"; default is 450.
+home-banner-image-position: center # [options: top, center, bottom] Default: top
+carousel-height: 450 # in px, but don't include the "px"; default is 450.
 # carousel can feature specific item types: image,pdf,youtube,thumbs
 carousel-type: image
 featured-subjects: #separate semi-colon(';') - if left blank, will be automatically generated to create top 5 subjects
@@ -101,4 +102,4 @@ base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#17a2b8"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
