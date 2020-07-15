@@ -5,9 +5,9 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Collection Builder CDM Skin" %}
+{% include feature/nav-menu.html sections="About the Founding Stories" %}
 
-### About the Founding Stories
+## About the Founding Stories
 
 {{ site.description }}
 
