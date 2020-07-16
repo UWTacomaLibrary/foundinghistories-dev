@@ -78,9 +78,9 @@ metadata-facets-fields: "affiliation (role),affiliation (department),subject,loc
 # ADVANCED OPTIONS
 #
 # CDM image % for IIIF
-image-percentage-large: 60 # default 70
-image-percentage-medium: 30 # default 40 
-image-percentage-small: 15 # default 20
+image-percentage-large: 70 # default 70
+image-percentage-medium: 40 # default 40 
+image-percentage-small: 20 # default 20
 
 # NAVBAR COLORS
 # navbar text color
