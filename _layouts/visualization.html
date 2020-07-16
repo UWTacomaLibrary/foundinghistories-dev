@@ -16,10 +16,10 @@ layout: default
     display: none;
   }
 </style>
-<div class="container">
+<div class="container mt-3">
   {{ content }}
 
-  <div class="row">
+  <div class="row mt-4">
     {%for n in site.data.filters %}
     <div class="col-md-2 col-4 ">
       <svg class="legend" width="100%" height="25px" data-id="{{n.tag}}" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On {{ n.description | escape }}">
@@ -69,7 +69,7 @@ layout: default
           <div id="spoken">{%if item.speaker%}{{item.speaker | remove: ":"}}: {%endif%}{{item.words}}</div>
         </td>
         <td class="timestamp">{%if item.timestamp%}
-          <a target="_blank" href="{% include {{avlink}} %}">{{item.timestamp}}</a>{% endif %}<br />{{item.tags | replace: ";", "<br>"}}</td>
+          <a target="_blank" href="{% include timestamp/soundcloud.html %}">{{item.timestamp}}</a>{% endif %}<br />{{item.tags | replace: ";", "<br>"}}</td>
       </tr>
 
       {% if forloop.last%}</table>
