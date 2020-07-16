@@ -3,7 +3,7 @@ title,Title,,DC.title
 interviewee,Interviewee,,DCTERMS.creator,creator
 interviewer,Interviewer,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
-affiliation (role),Role,true,
+affiliation (role),Role,,
 affiliation (department),Department,,
 subject,Subjects,true,DC.subject,keywords
 biography,Biography,,
