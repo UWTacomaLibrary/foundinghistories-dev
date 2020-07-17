@@ -5,7 +5,7 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Founding Stories project" %}
+{% include feature/nav-menu.html sections="About the Founding Stories project";Related Resources %}
 
 ## About the UW Tacoma: Founding Stories oral history project
 
