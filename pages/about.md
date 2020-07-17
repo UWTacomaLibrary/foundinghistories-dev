@@ -15,13 +15,13 @@ The UW Tacoma Library began in late 2017 to collect oral history interviews with
 
 {% include feature/item-image.html width="50" image="/assets/img/flic.kr_p_qhv873.jpg" caption="First graduating class of UW Tacoma with Steve Smith (Student Services), 1991. Left to right: Steve Smith, Michael Boyte, Patti Saunders, Manuel Sunday, Kelly Creso, Shelle Barnes Brihn. Courtesy of UW Tacoma." link="https://flic.kr/p/qhv873" %}
 
-{% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image2.jpg" caption="Mike Allen, professor of history, teaching in the Perkins Building. Courtesy of UW Tacoma." link="https://flic.kr/p/reqf3f" %}
+{% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image2.jpg" caption="Mike Allen, professor of history, teaching in the Perkins Building. Courtesy of UW Tacoma." float="left" link="https://flic.kr/p/reqf3f" %}
 
 The collection aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions. These oral history recordings serve as valuable primary sources to support future scholarly research and storytelling. The UW Tacoma Library collaborates with political science and labor studies professor Charles Williams on this project.
 
 {% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image4.jpg" caption="UW Tacoma founding staff with one of the first graduates on the roof of Perkins Building, 1991. Courtesy of UW Tacoma." link="https://flic.kr/p/reqeVm" %}
 
-{% include feature/item-image.html image="/assets/img/qWW5FY_original.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." link="https://flic.kr/p/qWW5FY" %}
+{% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image3.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." link="https://flic.kr/p/qWW5FY" %}
 
 {% include feature/card.html text="
 * [Founding Stories in the News](https://www.tacoma.uw.edu/news/article/founding-stories)
