@@ -33,7 +33,7 @@ organization-logo-banner: /assets/img/logo_uwLib.jpeg
 organization-logo-nav: assets/img/logoUWLibtransp.png #https://www.lib.washington.edu/uwlib-theme-www/img/wordmark.png
 
 footer-organization-logo: assets/img/logoUwtSq.png
-footer-organization-name: "University of Washington Tacoma Libraries"
+footer-organization-name: "University of Washington Tacoma"
 footer-link: https://www.tacoma.uw.edu/library/library
 ##########
 # COLLECTION SETTINGS
