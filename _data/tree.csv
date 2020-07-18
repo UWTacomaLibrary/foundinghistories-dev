@@ -1,9 +1,4 @@
 top,second,node
-themes,affiliation type,administrator
-themes,affiliation type,community member
-themes,affiliation type,faculty
-themes,affiliation type,staff
-themes,affiliation type,alumni
 themes,architecture,Japanese Language School
 themes,architecture,Union Station
 themes,architecture,warehouse district
@@ -29,3 +24,4 @@ themes,military,veteran
 themes,urban studies,community development
 themes,urban studies,economic development
 themes,urban studies,historic preservation
+themes,urban studies,urban development
