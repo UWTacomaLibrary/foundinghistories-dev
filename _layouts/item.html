@@ -19,17 +19,17 @@ gallery: true
                 {%for c in compound%}
                 {%- assign cpd = items | where_exp: 'item', 'item.cdmid == c' -%}
                 {% for item in cpd %}
-                {% if item.format == 'image/jpg' %}
+                {% if item.format contains 'image' %}
                 <div class="gallery-img" data-src="{% include image/original.html %}">
                     <p><img src="{% include image/small.html %}" alt="{{ page.title | escape }}" alt="item thumbnail" class="img-fluid"></p>
                     <p><small>Click to view full screen</small></p>
                 </div>
-                {% elsif item.format == 'application/pdf' %}
+                {% elsif item.format contains 'pdf' %}
                 <div class="card  py-4">
                         <h3 class="mb-4">Transcript</h3>
                     <a id="transcript-download" href="{% include download/pdf.html %}" target="_blank"><img src="{% include image/thumb.html %}" alt="{{ item.title | escape }}" alt="item thumbnail" class="img-fluid thumb"></a>
                 </div>
-                {% elsif item.format == 'audio/mp3' %}
+                {% elsif item.format contains 'mp3' %}
                 <div class="card  py-4">
                     <h3 class="mb-4">Audio</h3>
                 <audio controls class="mp3-item-player">
