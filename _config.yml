@@ -39,7 +39,7 @@ footer-link: https://www.tacoma.uw.edu/library/library
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: foundingstories07212020 
+metadata: foundingstories07232020 
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: p16786coll18
 # CONTENTdm server url
@@ -47,7 +47,7 @@ cdm-url: https://cdm16786.contentdm.oclc.org
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'foundingstories07212020'
+  - data: 'foundingstories07232020'
     template: 'items'
     name: 'objectid'
     dir: 'items'
