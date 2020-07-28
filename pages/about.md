@@ -39,18 +39,15 @@ The collection aims to present a rich and complex history of UW Tacoma, which wa
 
 We especially appreciate the opportunity to collaborate with Devin Becker, Head of Data and Digital Services at University of Idaho. His generous and tireless guidance on the CollectionBuilder site enabled us to showcase the collection material and facilitate discovery in dynamic ways on this collection website.
 
-{% include feature/item-image.html image="/assets/img/qWW5FY_original.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." width="50" link="https://flic.kr/p/qWW5FY" %}
-
 This project has been supported by the Friends of the UW Libraries (Phase 1); and UW Tacoma and a pledge of support from Rod Hagenbuch (Phase 2). We received assistance from the Office of Advancement to expand our contacts and garner support for the project, and we thank generous past and future donors for helping us preserve and interpret the history of UW Tacoma. 
+
+{% include feature/item-image.html image="/assets/img/qWW5FY_original.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." width="50" link="https://flic.kr/p/qWW5FY" %}
 
 ## Support Founding Stories
 
 This project is about a community that helped build UW Tacoma. Many of you—whether formerly or presently affiliated with UW Tacoma—offered input and shared your stories. You can help collect the rich and complex stories of the founding of UW Tacoma by <a href="https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=UWTOHA&appeal=" target="_blank">making a gift</a> in any amount to support <i>UW Tacoma Oral History: The Founding Stories</i>.
 
 &nbsp;
-&nbsp;
-&nbsp;
-
 
 {% include feature/card.html text="
 * [Founding Stories in the News](https://www.tacoma.uw.edu/news/article/founding-stories)
