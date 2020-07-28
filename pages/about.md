@@ -11,16 +11,13 @@ permalink: /about.html
 
 <i>UW Tacoma Oral History: Founding Stories</i> aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions
 
-
-
+&nbsp;
 {% include feature/item-image.html image="/assets/img/flic.kr_p_qhv873.jpg" width="50" caption="First graduating class of UW Tacoma with Steve Smith (Student Services), 1991. Left to right: Steve Smith, Michael Boyte, Patti Saunders, Manuel Sunday, Kelly Creso, Shelle Barnes Brihn. Courtesy of UW Tacoma." link="https://flic.kr/p/qhv873" %}
-
-
+&nbsp;
 
 In late 2017, UW Tacoma Library began to collect oral history interviews with founding faculty, staff, and community leaders to document the founding history of University of Washington Tacoma, and completed the first phase of this oral history project. 
 
 Then in 2019–2020, the Library initiated a second phase with a much more expanded scope. After ten months of work, <i>Founding Stories</i> reflects a collection of over 35 interviews that share first-hand accounts, perspectives, and experiences of individuals who played significant roles in establishing and shaping UW Tacoma. Founding and long-serving faculty and staff, students from the first graduating class, past active members of student organizations, academic and community leaders, and political figures all appear in the collection. These oral history recordings serve as valuable primary sources to support future scholarly research and storytelling.
-
 
 &nbsp;
 <div class="row">
@@ -28,11 +25,11 @@ Then in 2019–2020, the Library initiated a second phase with a much more expan
 {% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image2.jpg" caption="Mike Allen, professor of history, teaching in the Perkins Building. Courtesy of UW Tacoma." link="https://flic.kr/p/reqf3f" %}
 </div>
 <div class="col-md-6">
+
 {% include feature/item-image.html image="https://content.lib.washington.edu/tacomafoundingstoriesweb/image4.jpg" caption="UW Tacoma founding staff with one of the first graduates on the roof of Perkins Building, 1991. Courtesy of UW Tacoma." link="https://flic.kr/p/reqeVm" %}
 </div>
 </div>
-
-
+&nbsp;
 
 The collection aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions. These oral history recordings serve as valuable primary sources to support future scholarly research and storytelling. The UW Tacoma Library collaborates with political science and labor studies professor Charles Williams on this project.
 
