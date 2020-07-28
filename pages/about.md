@@ -5,9 +5,9 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the UW Tacoma: Founding Stories oral history project;Acknowledgement;Support Founding Stories" %}
+{% include feature/nav-menu.html sections="About the Founding Stories project;Credits &amp; Acknowledgement;Support Founding Stories" %}
 
-## About the UW Tacoma: Founding Stories oral history project
+## About the Founding Stories project
 
 <i>UW Tacoma Oral History: Founding Stories</i> aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions
 
