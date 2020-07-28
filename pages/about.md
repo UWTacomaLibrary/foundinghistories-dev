@@ -5,7 +5,7 @@ permalink: /about.html
 ---
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About the Founding Stories project;Credits &amp; Acknowledgement;Support Founding Stories" %}
+{% include feature/nav-menu.html sections="About the Founding Stories project;Credits and Acknowledgement;Support Founding Stories" %}
 
 ## About the Founding Stories project
 
@@ -33,7 +33,7 @@ Then in 2019–2020, the Library initiated a second phase with a much more expan
 
 The collection aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions. These oral history recordings serve as valuable primary sources to support future scholarly research and storytelling. The UW Tacoma Library collaborates with political science and labor studies professor Charles Williams on this project.
 
-## Credits &amp; Acknowledgement
+## Credits and Acknowledgement
 
 <i>Founding Stories</i> is the result of a collaborative effort. Justin Wadland (UW Tacoma Library) and Charles Williams (UW Tacoma School of Interdisciplinary Arts and Sciences) conceptualized and initiated the project. Joan Hua (UW Tacoma Library) managed the 2019–2020 phase to develop, curate, and publish the collection. Colleagues at UW Libraries—from the Collections & Content and IT Services & Digital Strategies in particular—offered their crucial support to make the archiving of the collection possible. A number of UW Tacoma student employees assisted in the transcription process to make the audio collection more accessible. 
 
