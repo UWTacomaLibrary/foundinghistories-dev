@@ -4,7 +4,7 @@
 ##########
 
 # Home page
-featured-image: /foundingstories/assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
+featured-image: /assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
 home-title-y-padding: 8em # the margin from the top your title portion will appear.
 home-banner-image-position: center # [options: top, center, bottom] Default: top
 carousel-height: 500 # in px, but don't include the "px"; default is 450.
