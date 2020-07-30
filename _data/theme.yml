@@ -4,7 +4,7 @@
 ##########
 
 # Home page
-featured-image: /assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
+featured-image: /foundingstories/assets/img/qWW5FY_original.jpg # leave blank unless no cdm number to generate item 
 home-title-y-padding: 8em # the margin from the top your title portion will appear.
 home-banner-image-position: center # [options: top, center, bottom] Default: top
 carousel-height: 500 # in px, but don't include the "px"; default is 450.
@@ -20,7 +20,7 @@ featured-locations-max: 8
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: /assets/img/qWW5FY_original.jpg
+about-featured-image: /foundingstories/assets/img/qWW5FY_original.jpg
 
 ##########
 # BROWSE PAGE

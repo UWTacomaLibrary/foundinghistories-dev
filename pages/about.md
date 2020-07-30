@@ -12,7 +12,7 @@ permalink: /about.html
 <i>UW Tacoma Oral History: Founding Stories</i> aims to present a rich and complex history of UW Tacoma, which was established with tremendous community support. Its presence in downtown Tacoma has transformed the post-industrial neighborhood and invites inquiries into urban development; historic preservation; public higher education; and the relationships between people, communities, and institutions.
 
 &nbsp;
-{% include feature/item-image.html image="/assets/img/flic.kr_p_qhv873.jpg" width="50" caption="First graduating class of UW Tacoma with Steve Smith (Student Services), 1991. Left to right: Steve Smith, Michael Boyte, Patti Saunders, Manuel Sunday, Kelly Creso, Shelle Barnes Brihn. Courtesy of UW Tacoma." link="https://flic.kr/p/qhv873" %}
+{% include feature/item-image.html image="/foundingstories/assets/img/flic.kr_p_qhv873.jpg" width="50" caption="First graduating class of UW Tacoma with Steve Smith (Student Services), 1991. Left to right: Steve Smith, Michael Boyte, Patti Saunders, Manuel Sunday, Kelly Creso, Shelle Barnes Brihn. Courtesy of UW Tacoma." link="https://flic.kr/p/qhv873" %}
 &nbsp;
 
 In late 2017, UW Tacoma Library began to collect oral history interviews with founding faculty, staff, and community leaders to document the founding history of University of Washington Tacoma and completed the first phase of this oral history project. 
@@ -38,7 +38,7 @@ Then in 2019–2020, the Library initiated a second phase with a much more expan
 We especially appreciate the opportunity to collaborate with Devin Becker, Head of Data and Digital Services at University of Idaho. His generous and tireless guidance on the CollectionBuilder site enabled us to showcase the collection material and facilitate discovery in dynamic ways on this collection website.
 
 This project has been supported by the Friends of the UW Libraries (Phase 1); and UW Tacoma and a pledge of support from Rod Hagenbuch (Phase 2). We received assistance from the Office of Advancement to expand our contacts and garner support for the project, and we thank generous past and future donors for helping us preserve and interpret the history of UW Tacoma. 
-{% include feature/item-image.html image="/assets/img/qWW5FY_original.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." width="50" link="https://flic.kr/p/qWW5FY" %}
+{% include feature/item-image.html image="/foundingstories/assets/img/qWW5FY_original.jpg" caption="The Garretson Woodruff & Pratt building (GWP) during renovation in 1996. Courtesy of UW Tacoma." width="50" link="https://flic.kr/p/qWW5FY" %}
 ## Support Founding Stories
 
 This project is about a community that helped build UW Tacoma. Many of you—whether formerly or presently affiliated with UW Tacoma—offered input and shared your stories. You can help collect the rich and complex stories of the founding of UW Tacoma by <a href="https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=UWTOHA&appeal=" target="_blank">making a gift</a> in any amount to support <i>UW Tacoma Oral History: The Founding Stories</i>.
